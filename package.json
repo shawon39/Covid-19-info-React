@@ -34,8 +34,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://shawon39.github.io/Covid-19-info/",
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "homepage": "https://shawon39.github.io/Covid-19-info/"
 }

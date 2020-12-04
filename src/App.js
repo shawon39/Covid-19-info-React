@@ -46,7 +46,6 @@ class App extends Component {
 		return (
 			<div className="App container">
 				<h2>Covid-19 Information</h2>
-				<p>If you don't get all the data please Refresh</p>
 				<div className="row">
 					<div className="col-md-2">
 						<p>World</p>
